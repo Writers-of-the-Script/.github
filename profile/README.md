@@ -5,6 +5,7 @@ There are random events, structures, entities, anomalies, and so much more. Have
 and pray the void doesn't catch you too quickly.
 
 - [Modrinth Page](https://modrinth.com/mod/the-broken-script)
+- [CurseForge Page](https://www.curseforge.com/minecraft/mc-mods/the-broken-script-official)
 
 ## Credits
 

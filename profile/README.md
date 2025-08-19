@@ -13,6 +13,6 @@ and pray the void doesn't catch you too quickly.
 - Partially inspired by the Mark101 ARG
 - calm5.ogg (Edited) is by Mark101
 - New menu backgrounds were created by realherobeing
-- The resource pack for "nostalgia" assets is based on `Old Look 2`, which uses textures from `Beta Continuum` by `swiglum` and `shmoobalizer`, and `Programmer Art +` by `Crackers0106`.
+- Nostalgia resource pack created by JDG
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/W7W11IBV39)
